@@ -1,0 +1,3 @@
+<linker>
+<assembly fullname="dotnet-core-webassembly" />
+</linker>
