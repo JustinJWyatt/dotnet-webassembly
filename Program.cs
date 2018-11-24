@@ -10,7 +10,6 @@ namespace dotnet_core_webassembly
         }
 
         public static IWebAssemblyHostBuilder CreateHostBuilder(string[] args) =>
-            BlazorWebAssemblyHost.CreateDefaultBuilder()
-                .UseBlazorStartup<Startup>();
+            BlazorWebAssemblyHost.CreateDefaultBuilder().UseBlazorStartup<Startup>();
     }
 }
