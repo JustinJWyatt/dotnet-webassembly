@@ -76,3 +76,5 @@
 /Users/justinwyatt/Github/dotnet-core-webassembly/bin/Debug/netstandard2.0/dist/_framework/_bin/dotnet-core-webassembly.pdb
 /Users/justinwyatt/Github/dotnet-core-webassembly/bin/Debug/netstandard2.0/dist/_framework/blazor.boot.json
 /Users/justinwyatt/Github/dotnet-core-webassembly/obj/Debug/netstandard2.0/blazor/blazor.boot.json
+/Users/justinwyatt/Github/dotnet-core-webassembly/obj/Debug/netstandard2.0/Shared/APIData.g.i.cs
+/Users/justinwyatt/Github/dotnet-core-webassembly/obj/Debug/netstandard2.0/Shared/APIData.g.cs
